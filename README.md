@@ -4,7 +4,8 @@
 <b>Installation</b>
 -------------------
 
-<b> Installation of Yii2 </b>
+<b> Installation of Yii2 </b><br>
+
 Yii2 utilizes <a href="https://getcomposer.org/" target="_blank">Composer</a> to manage its dependencies. So, before using Yii2, make sure you have Composer installed on your machine.
 
 <b>Steps:</b>
