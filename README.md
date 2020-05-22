@@ -11,7 +11,7 @@ Yii2 utilizes <a href="https://getcomposer.org/" target="_blank">Composer</a> to
 <b>Steps:</b>
 
 
-1.  Create a directory in your local computer
+1.  Create a directory in your local computer (example. weather-forecast)
 2.  Open command prompt, go to your directory and type the following commands:
 
     <ul>
@@ -19,8 +19,9 @@ Yii2 utilizes <a href="https://getcomposer.org/" target="_blank">Composer</a> to
         <li>    git remote add origin http://github.com/JayMar0526/weather-forecast.git
         <li>    git pull origin master
     </ul>
-3.  Type composer update in the command prompt to get the widgets and extensions used by the project
-4.  Access the project. (Example. http://localhost/weather-forecast/frontend/web/site/index
+3.  Type 'composer update' (without quote) in the command prompt to get the widgets and extensions used by the project
+4.  Type 'init' or 'php init' (without quote), then choose 'development'
+5.  Access the project. (Example. http://localhost/weather-forecast/frontend/web/site/index)
 ---------
 
 <b>Contributor</b>
